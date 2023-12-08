@@ -16,7 +16,7 @@ Antes de instalar o CyberGuardian, certifique-se de ter Node.js e npm instalados
 
 1. Clone o repositório para sua máquina local:
    ```
-   git clone [URL do repositório]
+   git clone https://github.com/Tecnizium/CyberGuardian.git
    ```
 2. Navegue até a pasta do projeto e instale as dependências:
    ```
